@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hsu Waddy Htat</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h2 align="center">My primary focus is on JavaScript, and I enjoy creating dynamic and interactive web applications. I also have experience with HTML, CSS, and Bootstrap, which I use to craft visually appealing and responsive user interfaces.
+
+Aside from my studies, I am actively working on two exciting projects, Awesome Book and TO-do-list. These projects reflect my dedication to building practical solutions that improve people's lives.
+
+I am always eager to learn and explore new technologies to stay up-to-date with the ever-evolving web development landscape. Through my work and contributions, I hope to make a positive impact in the tech community and beyond.</h2>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" alt="hsuwaddyhtat22" /> </p>
 
