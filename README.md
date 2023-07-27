@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hsu Waddy Htat</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsuwaddyhtat22&label=Profile%20views&color=0e75b6&style=flat" alt="hsuwaddyhtat22" /> </p>
+
+<p align="left"> <img src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" alt="hsuwaddyhtat22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsuwaddyhtat22" alt="hsuwaddyhtat22" /></a> </p>
 
