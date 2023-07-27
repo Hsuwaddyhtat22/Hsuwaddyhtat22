@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hsu Waddy Htat</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
-<h4 align="center" style="color: yellow;">My primary focus is on JavaScript, and I enjoy creating dynamic and interactive web applications. I also have experience with HTML, CSS, and Bootstrap, which I use to craft visually appealing and responsive user interfaces.
+<h4 align="center">My primary focus is on JavaScript, and I enjoy creating dynamic and interactive web applications. I also have experience with HTML, CSS, and Bootstrap, which I use to craft visually appealing and responsive user interfaces.
 
 Aside from my studies, I am actively working on two exciting projects, Awesome Book and TO-do-list. These projects reflect my dedication to building practical solutions that improve people's lives.
 
